@@ -1,5 +1,6 @@
 ﻿namespace CarRental.Core;
 
+
 public enum Availability {
     Available,
     Reserved,
